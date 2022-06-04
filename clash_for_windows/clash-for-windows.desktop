@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=0.19.19
+Name=Clash For Windows
+Comment=Clash GUI
+Exec=/opt/clash_for_windows/cfw
+Icon=clash.png
+Terminal=false
+Keywords=clash
+Categories=Network;Utility;
